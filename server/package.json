@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/stonkpile/wngman/issues"
   },
-  "homepage": "https://github.com/stonkpile/wngman#readme"
+  "homepage": "https://github.com/stonkpile/wngman#readme",
+  "dependencies": {
+    "node-cron": "^2.0.3"
+  }
 }
